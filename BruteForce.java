@@ -1,6 +1,8 @@
 public class BruteForce {
+    // Glsa nx lvhsl abhwtlr
+    // Uryyb jbeyq
     public static void main(String[] args) {
-        String ciphertext = "Djqifsufyu hpft ifsf";
+        String ciphertext = "uladvyr zljbypaf";
 
         for (int shift = 0; shift < 26; shift++) {
             String plaintext = decrypt(ciphertext, shift);
